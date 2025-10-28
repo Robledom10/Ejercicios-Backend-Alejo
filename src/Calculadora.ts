@@ -1,5 +1,3 @@
-import { error } from "console";
-
 class Calculadora {
     sumar(a: number, b: number): number {
         return a + b;
